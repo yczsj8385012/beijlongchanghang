@@ -1,0 +1,6 @@
+{
+  "name": "北京隆昌行｜食品库存评估与合规处置平台",
+  "description": "北京隆昌行商贸有限公司官方平台。面向食品品牌商、进口商与经销商，提供临期食品、冷冻海鲜、饮料乳品等大宗库存快速评估、价格体系保护与合规流向处置对接。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

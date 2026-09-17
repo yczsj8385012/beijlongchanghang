@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemaps and AI Crawlers
+Sitemap: https://coglioo.com/sitemap.xml
+
+# LLM / Generative Engine Optimization index file
+# https://llmstxt.org
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
